@@ -12,8 +12,8 @@ body {
 }
 .header {
 	font: 100%/1.4 Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
-	color: ;
-	background: #592538;
+	color: #F27649;
+	background: #26111B;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
@@ -23,7 +23,7 @@ body {
 	
 }
 .nav {
-	background: #26111B;
+	background: #02070D;
 	margin: 0px;
 	padding: 5;
 	float: left;
