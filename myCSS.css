@@ -14,7 +14,7 @@ a:link {
 a:visited {
      color: #F27649;
 }
-a:hover { 
+a:hover, a:active, a:focus { 
      text-decoration: underline;
 }
 .homePage {
