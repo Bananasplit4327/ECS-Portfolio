@@ -2,23 +2,23 @@
 /* This is a comment! Text here will be ignored by the browser. */
 body {
 	font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
-	background-color: #26111B;
+	background-color: #687FA3;
 	margin: 0;
 	padding: 0;
 	color: #000;
 }
 
 a:link {
-     color: #F27649;
+     color: #7868A3;
 }
 a:visited {
-     color: #F27649;
+     color: #7868A3;
 }
 a:hover, a:active, a:focus { 
      text-decoration: underline;
 }
 .homePage {
-	background: #222222;
+	background: #6892A3;
 }
 .container {
 	width: 960px;
