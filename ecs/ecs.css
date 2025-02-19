@@ -51,7 +51,11 @@ a:hover, a:active, a:focus {
 	float: left;
 	width: 100%;
 	text-align: center;
-	h2{text-align:left}
+	<style>
+ 	 h1 { text-align: center; }
+ 	 h2 { text-align: left; }
+ 	 h3 { text-align: right; }
+	</style>
 }
 .footer {
 	background: #02070D;
